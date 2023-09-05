@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Agbonoga Dauda Okhumede.</h1>
 <h3 align="center">I am a dedicated professional with expertise in data science and machine learning.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhgc8wq1WOtrT5YyFrDrZ7NFdnBhxdz9cRzA&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://www.polyu.edu.hk/its/-/media/department/its/events/2022/1/20220127-event-deep-learning-with-python_afternoon.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dee-ui&label=Profile%20views&color=0e75b6&style=flat" alt="dee-ui" /> </p>
 
