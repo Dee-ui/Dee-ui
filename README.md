@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **Use of neural networks to solve the inverse kinematics problem of a robot arm manipulator.**
 
-- 🌱 I’m currently learning **SQL, Pytorch, NLP**
+- 🌱 I’m an expert at **SQL, Tensorflow, Pytorch, NLP, Power BI, Excel, Machine Learning, Deep Learning and Generative  AI**
 
-- 👯 I’m looking to collaborate on **Use of Tensorflow to predict the breed of a dog from it's image.**
+- 👯 One project I worked on **Use of Tensorflow to predict the breed of a dog from it's image.**
 
 - 🤝 I’m looking for help with **Use of reinforcement learning in solving inverse kinematics problem of 6 degree of freedom manipulators.**
 
